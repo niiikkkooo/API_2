@@ -1,0 +1,24 @@
+{
+    "OrderID": 123456,     
+    "Address": "Avenida 9 de Julio, 125",
+    "Status": "En camino",
+    "Articles": [
+      {
+        "Name": "Notebook",
+        "Quantity": 1,
+        "Dangerous": false
+      },
+      {
+        "Name": "Bateria para UPS",
+        "Quantity": 2,
+        "Dangerous": true
+      },
+      {
+        "Name": "Mouse y Pad",
+        "Quantity": 1,
+        "Dangerous": false
+      }
+    ]
+  }
+  
+  # API_2
